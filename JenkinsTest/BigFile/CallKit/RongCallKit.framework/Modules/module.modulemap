@@ -1,6 +1,3 @@
-framework module RongCallKit {
-  umbrella header "RongCallKit.h"
-
-  export *
-  module * { export * }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9de59a99b4c180ab82243b6ea73a27e9e348891da3cc9e260daf90e33be92c27
+size 103
