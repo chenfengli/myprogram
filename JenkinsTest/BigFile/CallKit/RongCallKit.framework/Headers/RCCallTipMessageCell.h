@@ -1,28 +1,3 @@
-//
-//  RCCallTipMessageCell.h
-//  RongCallKit
-//
-//  Created by RongCloud on 16/3/20.
-//  Copyright © 2016年 RongCloud. All rights reserved.
-//
-
-#import <RongIMKit/RongIMKit.h>
-
-/*!
- 简略的通话摘要消息Cell
- */
-@interface RCCallTipMessageCell : RCMessageBaseCell
-
-/*!
- 显示的内容Label
- */
-@property(strong, nonatomic) RCTipLabel *messageLabel;
-
-/*!
- 设置当前消息Cell的数据模型
-
- @param model 消息Cell的数据模型
- */
-- (void)setDataModel:(RCMessageModel *)model;
-
-@end
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d384295283b65c192b266b6ee0a16a8be6df54dd00d715a723d3674982447cd
+size 500
